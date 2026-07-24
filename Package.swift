@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GreetingKit",
-            url: "https://github.com/jowong123/GreetingKit",
+            url: "https://github.com/user-attachments/files/30342602/GreetingKit.xcframework.zip",
             checksum: "ac2376ab62793d20ec3a879ef6287c1d7a64a24f87169fb78fb6d1e36d9f83cf"
         )
     ]
