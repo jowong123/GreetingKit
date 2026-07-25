@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "GreetingKit",
             url: "https://github.com/jowong123/GreetingKit/releases/download/1.0.1/GreetingKit.xcframework.zip",
-            checksum: "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+            checksum: "ac2376ab62793d20ec3a879ef6287c1d7a64a24f87169fb78fb6d1e36d9f83cf"
         )
     ]
 )
